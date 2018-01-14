@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UniversalRemoteControlApp</string>
+    <string name="power">Power</string>
+    <string name="pair">Pair</string>
+</resources>
